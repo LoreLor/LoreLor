@@ -57,15 +57,6 @@ Descripción de la App:
 
 https://youtu.be/Kl-yEmxcuAk
 
-COUNTRIES APP - HENRY BOOTCAMP -
-
-[![IMAGES COUNTRIES _APP](assets\1.png)]
-
-[![IMAGES COUNTRIES _APP](assets\2.png)]
-
-[![IMAGES COUNTRIES _APP](assets\3.png)]
-
-[![IMAGES COUNTRIES _APP](assets\4.png)]
 
 ## 🔗 Links de Contacto:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-de-armas/)
