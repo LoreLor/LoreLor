@@ -2,7 +2,7 @@
 # Hola Mundo... SOY LORENA 🙌
 
 
-## 🚀 About Me...
+## About Me...
 
 📌Entusiasta  FullStack Developer !!! compuesta de unas rebanadas de ingeniera, unas cucharaditas 
     de contadora, una pizca de presidente de asociación de voleibol...  jugadora de voley a gusto...y muchos 
