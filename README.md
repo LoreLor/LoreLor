@@ -62,3 +62,7 @@ https://youtu.be/Kl-yEmxcuAk
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-de-armas/)
 
 
+![1](https://user-images.githubusercontent.com/86624472/145938350-b6939d65-1c73-40e9-bd4f-29156b4c4bb0.png)
+![2](https://user-images.githubusercontent.com/86624472/145938400-17dbb9bc-7a5e-4d54-b91c-6285eca56287.png)
+![3](https://user-images.githubusercontent.com/86624472/145938414-96898a3e-58e5-4200-8216-c87e1a9e2db9.png)
+![4](https://user-images.githubusercontent.com/86624472/145938460-9efbac21-b63d-42ec-886f-824a0190d1a0.png)
