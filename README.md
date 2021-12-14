@@ -39,13 +39,13 @@ Javascript ~ React ~ Redux ~ Node ~ Express ~ Sequelize ~ PostgreSQL ~ HTML ~ CS
 
 ## My Work as Student
 SPA desarrollada con las tecnologías que a continuacion se detallan:
-°FRONT: React.js - Redux.js - Css;
-°BACK: Node.js - Express.js - Sequelize;
-°BD: PostgreSQL
+##°FRONT: React.js - Redux.js - Css;
+##°BACK: Node.js - Express.js - Sequelize;
+##°BD: PostgreSQL
 
 Descripción de la App:
-1 - Landing Page,
-2 - Home con:
+##1 - Landing Page,
+##2 - Home con:
          - Barra de navegación,
          - Barra de búsquedas por nombre (match parcial);
          - Detalle de un país - acceso por identificador;
