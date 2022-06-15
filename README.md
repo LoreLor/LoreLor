@@ -21,15 +21,15 @@
 
 
  ¿Hoy? 📲💻
-📌 Me encuentro cursando instancias finales en el Bootcamp de Henry,  donde sigo adquiriendo capacidades 
+📌 Graduada de Henry- yo SOY HENRY!!! ...sigo adquiriendo capacidades 
    técnicas como desarrollador, lenguajes... buenas practicas de programación...e infinidad 
    de softskills.
 
 
- ¿Mañana?🚀🎆
-📌 Por otra parte, me encuentro iniciando otro Bootcamp, dictado por INTI en el marco del Argentina 
+ Mañana...es hoy!?🚀🎆
+📌 Por otra parte, me encuentro finalizando otro Bootcamp, dictado por INTI en el marco del Argentina 
     Programa, para el cual me han asignado una vacante por haber aprobado la primera instancia en junio 
-    2021. Tecnologías y lenguajes a incorporar: Angular -Typescript - Python- Java -.
+    2021. Tecnologías y lenguajes a incorporar: Angular -Typescript -Spring-Boot- Mysql - Java -.
 
 
 
