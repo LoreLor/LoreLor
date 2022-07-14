@@ -34,9 +34,8 @@
 
 
  ## Skills
- Javascript ~ React ~ Redux ~ Node ~ Express ~ Sequelize ~ PostgreSQL ~ HTML ~ CSS...
  
- [![My Skills](https://skills.thijs.gg/icons?i=js,ts,java,html,css,react,angular,mongodb,postgres,nodejs,mysql,spring,git,figma,trello)](https://skills.thijs.gg)
+ [![My Skills](https://skills.thijs.gg/icons?i=js,ts,java,html,css,react,angular,mongodb,postgres,nodejs,mysql,spring,git,figma,JWT)](https://skills.thijs.gg)
 
 
 
@@ -68,6 +67,7 @@ https://youtu.be/Kl-yEmxcuAk
 
 ## 🔗 Links de Contacto:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-de-armas/)
+[![portfolio](https://portfoliofront-lorena.web.app)
 
   
 
