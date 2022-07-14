@@ -36,7 +36,7 @@
  ## Skills
  Javascript ~ React ~ Redux ~ Node ~ Express ~ Sequelize ~ PostgreSQL ~ HTML ~ CSS...
  
- 
+ [![My Skills](https://skills.thijs.gg/icons?i=js,ts,java,html,css,react,angular,mongodb,postgres,nodejs,mysql,spring,git,figma,trello)](https://skills.thijs.gg)
 
 
 
