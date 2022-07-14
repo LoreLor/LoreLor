@@ -33,11 +33,11 @@
 
 
 
- 🛠 Skills
+ ##🛠 Skills
  Javascript ~ React ~ Redux ~ Node ~ Express ~ Sequelize ~ PostgreSQL ~ HTML ~ CSS...
  
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LoreLor&theme=gruvbox_duo)](https://git.io/streak-stats)
+
 
 
  ## My Work as Student
