@@ -33,7 +33,7 @@
 
 
 
- ##🛠 Skills
+ ## Skills
  Javascript ~ React ~ Redux ~ Node ~ Express ~ Sequelize ~ PostgreSQL ~ HTML ~ CSS...
  
  
