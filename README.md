@@ -25,12 +25,10 @@
    técnicas como desarrollador, lenguajes... buenas practicas de programación...e infinidad 
    de softskills.
 
-
- Mañana...es hoy!?🚀🎆
 📌 Por otra parte, me encuentro finalizando otro Bootcamp, dictado por INTI en el marco del Argentina 
     Programa, para el cual me han asignado una vacante por haber aprobado la primera instancia en junio 
     2021. Tecnologías y lenguajes a incorporar: Angular -Typescript -Spring-Boot- Mysql - Java -.
-
+    https://portfoliofront-lorena.web.app
 
 
  ## Skills
