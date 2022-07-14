@@ -65,7 +65,7 @@ https://youtu.be/Kl-yEmxcuAk
 
 ## 🔗 Links de Contacto:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-de-armas/)
-<div id="header" align="center">
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LoreLor&theme=gruvbox_duo)](https://git.io/streak-stats)
-</div>
+
 
