@@ -33,7 +33,7 @@
 
  ## Skills
  
- [![My Skills](https://skills.thijs.gg/icons?i=js,ts,java,html,css,react,angular,mongodb,postgres,nodejs,mysql,spring,git,figma,JWT, Redux)](https://skills.thijs.gg)
+ [![My Skills](https://skills.thijs.gg/icons?i=js,ts,java,html,css,react,angular,mongodb,postgres,nodejs,mysql,spring,git,figma,jwt,redux)](https://skills.thijs.gg)
 
 
 
