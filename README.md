@@ -23,12 +23,11 @@
  ¿Hoy? 📲💻
 📌 Graduada de Henry- yo SOY HENRY!!! ...sigo adquiriendo capacidades 
    técnicas como desarrollador, lenguajes... buenas practicas de programación...e infinidad 
-   de softskills.
+   de softskills. Proyecto Final: https://demo-deploy-pf-front.vercel.app/
 
-📌 Por otra parte, me encuentro finalizando otro Bootcamp, dictado por INTI en el marco del Argentina 
-    Programa, para el cual me han asignado una vacante por haber aprobado la primera instancia en junio 
-    2021. Tecnologías y lenguajes a incorporar: Angular -Typescript -Spring-Boot- Mysql - Java -.
-    https://portfoliofront-lorena.web.app
+📌 Graduada Bootcamp INTI en el marco de Argentina Programa 2021. 
+    Stack:: Angular -Typescript -Spring-Boot- Mysql - Java -.
+    Proyecto Final: https://portfoliofront-lorena.web.app
    
  ## Skills
  
