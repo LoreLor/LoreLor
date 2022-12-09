@@ -21,7 +21,7 @@
 
 📌 Graduada de Henry- yo SOY HENRY!!! ...sigo adquiriendo capacidades 
    técnicas como desarrollador, lenguajes... buenas practicas de programación...e infinidad 
-   de softskills. Proyecto Final: https://demo-deploy-pf-front.vercel.app/
+   de softskills. Proyecto Final: E-commerce (Heroku-off)
 
 📌 Graduada Bootcamp INTI en el marco de Argentina Programa 2021. 
     Stack:: Angular -Typescript -Spring-Boot- Mysql - Java -.
