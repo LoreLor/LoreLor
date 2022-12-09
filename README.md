@@ -31,8 +31,13 @@
     
    
  ## Skills
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
  
- [![My Skills](https://skills.thijs.gg/icons?i=js,ts,java,html,css,react,redux,express,sequelize,angular,mongodb,postgres,nodejs,mysql,spring,docker,git,figma&perline=5)](https://skills.thijs.gg)
+ [![My Skills](https://skills.thijs.gg/icons?i=js,ts,java,html,css,react,redux,express,sequelize,angular,mongodb,postgres,nodejs,mysql,spring,docker,git,supabase,vite,figma&perline=5)](https://skills.thijs.gg)
 
 
 ## 🔗 Links de Contacto:
