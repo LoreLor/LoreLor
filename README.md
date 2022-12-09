@@ -32,7 +32,7 @@
    
  ## Skills
  
- [![My Skills](https://skills.thijs.gg/icons?i=js,ts,java,html,css,react,redux,express,seuelize,angular,mongodb,postgres,nodejs,mysql,spring,git,figma)](https://skills.thijs.gg)
+ [![My Skills](https://skills.thijs.gg/icons?i=js,ts,java,html,css,react,redux,express,sequelize,angular,mongodb,postgres,nodejs,mysql,spring,docker,git,figma&perline=5)](https://skills.thijs.gg)
 
 
 ## 🔗 Links de Contacto:
