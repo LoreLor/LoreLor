@@ -17,17 +17,18 @@
     herramientas tecnológicas, la manera mas optima de satisfacerlas...de alcanzar los objetivos (los trazados y los no tanto... de generar ese cambio...🤭)
 
 📌 Juego en Equipo desde siempre...🙌
-📌 Resiliente...
 
 
- ¿Hoy? 📲💻
 📌 Graduada de Henry- yo SOY HENRY!!! ...sigo adquiriendo capacidades 
    técnicas como desarrollador, lenguajes... buenas practicas de programación...e infinidad 
    de softskills. Proyecto Final: https://demo-deploy-pf-front.vercel.app/
 
 📌 Graduada Bootcamp INTI en el marco de Argentina Programa 2021. 
     Stack:: Angular -Typescript -Spring-Boot- Mysql - Java -.
-    Proyecto Final: https://portfoliofront-lorena.web.app
+    Proyecto Final: Portfolio (Heroku-off)
+
+📌 En curso Open Bootcamp Backend
+    
    
  ## Skills
  
