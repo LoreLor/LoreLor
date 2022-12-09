@@ -32,15 +32,12 @@
    
  ## Skills
  
-  [![My Skills]
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,redux,express,sequelize,angular,mongodb,postgres,nodejs,mysql,spring,docker,git,supabase,vite,figma" />
   </a>
 </p>
  
-(https://skills.thijs.gg/icons?i=js,ts,java,html,css,react,redux,express,sequelize,angular,mongodb,postgres,nodejs,mysql,spring,docker,git,supabase,vite,figma&perline=5)](https://skills.thijs.gg)
-
 
 ## 🔗 Links de Contacto:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-de-armas/)
