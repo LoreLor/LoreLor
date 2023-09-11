@@ -14,20 +14,16 @@
     y ejecutivas en ámbito social y cultural,  mantienen viva la pasión por detectar y satisfacer necesidades...
 
 📌 Personalmente, considero que de eso trata esta increíble profesión... captar necesidades y generar con 
-    herramientas tecnológicas, la manera mas optima de satisfacerlas...de alcanzar los objetivos (los trazados y los no tanto... de generar ese cambio...🤭)
+    herramientas tecnológicas, la manera mas optima de satisfacerlas...de alcanzar los objetivos y generar un cambio...🤭
 
 📌 Juego en Equipo desde siempre...🙌
 
-
-📌 Graduada de Henry- yo SOY HENRY!!! ...sigo adquiriendo capacidades 
-   técnicas como desarrollador, lenguajes... buenas practicas de programación...e infinidad 
-   de softskills. Proyecto Final: E-commerce (Heroku-off)
-
+📌 Graduada de Henry. 
 📌 Graduada Bootcamp INTI en el marco de Argentina Programa 2021. 
     Stack:: Angular -Typescript -Spring-Boot- Mysql - Java -.
     Proyecto Final: Portfolio (Heroku-off)
-
-📌 En curso Open Bootcamp Backend
+📌 En curso AP-MIND-HUB _ Desarrollo Frontend
+📌 En curso CODO A CODO _ Desarrollo Full Stack 
     
    
  ## Skills
