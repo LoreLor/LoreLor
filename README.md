@@ -22,7 +22,7 @@
 📌 Graduada Bootcamp INTI en el marco de Argentina Programa 2021. 
     Stack:: Angular -Typescript -Spring-Boot- Mysql - Java -.
     Proyecto Final: Portfolio (Heroku-off)
-📌 Graduada: AP-MIND-HUB _ Desarrollo Frontend
+📌 Graduada: AP-MIND-HUB _ Desarrollo Frontend: HTML, CSS, JavaScript, Bootstrap, Vue, 
 📌 En curso: CODO A CODO _ Desarrollo Full Stack Java
     
    
