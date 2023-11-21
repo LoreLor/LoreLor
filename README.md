@@ -37,7 +37,7 @@
 
 ## 🔗 Link de Contacto:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-de-armas/)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87e9e22f-eecd-49d2-be5e-d07c1e7b3c27/deploy-status)](https://app.netlify.com/sites/lorena-de-armas/deploys)
   
 
 
