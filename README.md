@@ -19,11 +19,12 @@
 📌 Juego en Equipo desde siempre...🙌
 
 📌 Graduada de Henry. 
-📌 Graduada Bootcamp INTI en el marco de Argentina Programa 2021. 
+📌 Graduada Bootcamp INTI en el marco de Argentina Programa. 
     Stack:: Angular -Typescript -Spring-Boot- Mysql - Java -.
     Proyecto Final: Portfolio (Heroku-off)
 📌 Graduada: AP-MIND-HUB _ Desarrollo Frontend: HTML, CSS, JavaScript, Bootstrap, Vue, 
-📌 En curso: CODO A CODO _ Desarrollo Full Stack Java
+📌 Graduada: CODO A CODO _ Desarrollo Full Stack Java.
+📌 En curso: ORACLE ONE - ALURA _ Desarrollo Full Stack Java.
     
    
  ## Skills
