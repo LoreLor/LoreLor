@@ -1,31 +1,5 @@
 
-  # Hola Mundo... SOY LORENA 🙌
-
-
-  ## About Me...
-
- 📌Soy una FullStack Developer, compuesta de unas rebanadas de ingeniera, unas cucharaditas 
-    de contadora, una pizca de presidente de asociación de voleibol...  jugadora de voley a gusto...y muchos 
-    otros ingredientes mas... 🙋‍♀️😉  
-    
-¿Por qué sería bueno contar conmigo en tu equipo? 😍
-📌 Los conocimientos y habilidades de abstracción para resolución de problemas adquiridos  en mi paso 
-    por Ingeniería Civil , las propias adquiridas en ciencias económicas y otras tantas de gestiones directivas 
-    y ejecutivas en ámbito social y cultural,  mantienen viva la pasión por detectar y satisfacer necesidades...
-
-📌 Personalmente, considero que de eso trata esta increíble profesión... captar necesidades y generar con 
-    herramientas tecnológicas, la manera mas optima de satisfacerlas...de alcanzar los objetivos y generar un cambio...🤭
-
-📌 Juego en Equipo desde siempre...🙌
-
-📌 Graduada de Henry. 
-📌 Graduada Bootcamp INTI en el marco de Argentina Programa. 
-    Stack:: Angular -Typescript -Spring-Boot- Mysql - Java -.
-    Proyecto Final: Portfolio (Heroku-off)
-📌 Graduada: AP-MIND-HUB _ Desarrollo Frontend: HTML, CSS, JavaScript, Bootstrap, Vue, 
-📌 Graduada: CODO A CODO _ Desarrollo Full Stack Java.
-📌 En curso: ORACLE ONE - ALURA _ Desarrollo Full Stack Java.
-    
+ # Hola Mundo... SOY LORENA 🙌
    
  ## Skills
  
