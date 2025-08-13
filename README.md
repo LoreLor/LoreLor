@@ -3,7 +3,7 @@
    
  ## Skills
  
- <p align="center" p=10>
+ <p align="center">
   <a href="https://skillicons.dev" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,vite,redux,express,angular,mongodb,postgres,nodejs,mysql,spring,docker,git,github,supabase,firebase&perline=10" />
   </a>
